@@ -1,0 +1,8 @@
+﻿  P4.cpp
+e:\sophomore#2\cmpsc465\p4\p4\p4.cpp(76): warning C4018: '<': signed/unsigned mismatch
+e:\sophomore#2\cmpsc465\p4\p4\p4.cpp(80): warning C4018: '<': signed/unsigned mismatch
+e:\sophomore#2\cmpsc465\p4\p4\p4.cpp(104): warning C4018: '<': signed/unsigned mismatch
+e:\sophomore#2\cmpsc465\p4\p4\p4.cpp(123): warning C4018: '<': signed/unsigned mismatch
+e:\sophomore#2\cmpsc465\p4\p4\p4.cpp(131): warning C4018: '<': signed/unsigned mismatch
+  P4.vcxproj -> E:\Sophomore#2\CMPSC465\P4\Debug\P4.exe
+  P4.vcxproj -> E:\Sophomore#2\CMPSC465\P4\Debug\P4.pdb (Partial PDB)
